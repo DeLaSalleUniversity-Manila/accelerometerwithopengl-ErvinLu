@@ -1,0 +1,4 @@
+See file:///C:/Users/Lu%20Family/Documents/Android/Sensor-Graph/app/build/tmp/linkArmeabi-v7aDebugAllSensorgraphSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugAllSensorgraphSharedLibrary.
+linking libsensorgraph.so successful.
+
+Finished linkArmeabi-v7aDebugAllSensorgraphSharedLibrary, see full log file:///C:/Users/Lu%20Family/Documents/Android/Sensor-Graph/app/build/tmp/linkArmeabi-v7aDebugAllSensorgraphSharedLibrary/output.txt.
