@@ -22,7 +22,15 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-ErvinLu/blob/master/device-2015-11-28-171545.png)
+
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-ErvinLu/blob/master/device-2015-11-28-171626.png)
+
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-ErvinLu/blob/master/device-2015-11-28-171633.png)
+
+Video Capture
+-----------
+(https://youtu.be/tc4LphM3zEw)
 
 Support
 -------
